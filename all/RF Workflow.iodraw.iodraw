@@ -60,10 +60,10 @@
           <mxGeometry x="535" y="85" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-25" value="SW main + RF:&lt;div&gt;根据需求和 RF Design 完成RFC 配置和online&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="414.5" width="270" height="40" as="geometry" />
+          <mxGeometry x="560" y="414.5" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-26" value="HW:&lt;div style=&quot;font-size: 15px;&quot;&gt;Path Design, Diagram, SCH/PCB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="530" y="208" width="250" height="50" as="geometry" />
+          <mxGeometry x="550" y="213" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="573" width="20" height="80" as="geometry" />
