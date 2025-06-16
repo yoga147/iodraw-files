@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mkHhNisYSlXm2K2auWB7">
-    <mxGraphModel dx="1000" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,26 +62,26 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-25" value="SW main + RF:&lt;div&gt;根据需求和 RF Design 完成RFC 配置和online&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="414.5" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-26" value="HW:&lt;div&gt;Path Design, Diagram, SCH/PCB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="213" width="200" height="40" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-26" value="HW:&lt;div style=&quot;font-size: 15px;&quot;&gt;Path Design, Diagram, SCH/PCB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="208" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="573" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-28" value="RF:&lt;div&gt;综测及其他配置调试&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="603" width="140" height="40" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-28" value="RF:&lt;div style=&quot;font-size: 15px;&quot;&gt;综测及其他配置调试&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="598" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="697" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-30" value="SIT:&lt;div&gt;LTE, NR, ENDC等验证&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="717" width="150" height="40" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-30" value="SIT:&lt;div style=&quot;font-size: 15px;&quot;&gt;LTE, NR, ENDC等验证&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="712" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="810" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-32" value="RF+SW:&lt;div&gt;厂端配置和验证, 线损等数据优化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="823" width="210" height="40" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-32" value="RF+SW:&lt;div style=&quot;font-size: 15px;&quot;&gt;厂端配置和验证, 线损等数据优化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="825" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
