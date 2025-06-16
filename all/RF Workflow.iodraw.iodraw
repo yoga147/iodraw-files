@@ -49,7 +49,7 @@
           <mxGeometry x="250" y="767" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-13" value="Factory Production" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="175" y="880" width="235" height="60" as="geometry" />
+          <mxGeometry x="192.5" y="880" width="235" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
