@@ -56,6 +56,9 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="319" width="20" height="231" as="geometry" />
         </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-24" value="SW + RF:&lt;div&gt;与 PM 确认需求, 规格等参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
