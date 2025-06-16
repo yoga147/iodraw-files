@@ -42,6 +42,9 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-12" value="Combo Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-13" value="Combo Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
