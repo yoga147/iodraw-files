@@ -30,11 +30,17 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="Bring Up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="428" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-5" target="Sf8G4b93oNL-A4fYySpw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-5" value="Calibration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-10" value="Fine Tune" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-12" value="Fine Tune" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
