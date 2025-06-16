@@ -16,13 +16,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-2" value="HW Design" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="203" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-3" target="Sf8G4b93oNL-A4fYySpw-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-3" value="RFC Configuration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="195" y="316" width="230" height="60" as="geometry" />
+          <mxGeometry x="195" y="353" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-4" target="Sf8G4b93oNL-A4fYySpw-10">
           <mxGeometry relative="1" as="geometry">
@@ -30,22 +30,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="Bring Up&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;div&gt;Calibration&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="429" width="120" height="111" as="geometry" />
+          <mxGeometry x="250" y="460" width="120" height="111" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-10" target="Sf8G4b93oNL-A4fYySpw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-10" value="NSFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="654" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="617" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-12" target="Sf8G4b93oNL-A4fYySpw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-12" value="Combo Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="767" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="748" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-13" value="Factory Production" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="880" width="235" height="60" as="geometry" />
+          <mxGeometry x="200" y="830" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="83" width="20" height="57" as="geometry" />
