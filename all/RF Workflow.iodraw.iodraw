@@ -27,7 +27,7 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-4" target="Sf8G4b93oNL-A4fYySpw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="Bring Up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="Bring Up&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;div&gt;Calibration&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="429" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-5" target="Sf8G4b93oNL-A4fYySpw-10">
