@@ -30,17 +30,18 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="Bring Up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-5" target="Sf8G4b93oNL-A4fYySpw-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="649.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-5" value="Calibration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-5" value="Calibration &amp;amp; NSFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-10" target="Sf8G4b93oNL-A4fYySpw-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-10" value="NSFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Sf8G4b93oNL-A4fYySpw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="709.9999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sf8G4b93oNL-A4fYySpw-12" target="Sf8G4b93oNL-A4fYySpw-13">
           <mxGeometry relative="1" as="geometry" />
