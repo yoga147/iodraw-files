@@ -69,7 +69,10 @@
           <mxGeometry x="520" y="573" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-28" value="RF:&lt;div&gt;综测及其他配置调试&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="593" width="140" height="40" as="geometry" />
+          <mxGeometry x="570" y="603" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="530" y="583" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
