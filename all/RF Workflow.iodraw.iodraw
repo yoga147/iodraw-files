@@ -75,7 +75,13 @@
           <mxGeometry x="520" y="697" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-30" value="SIT:&lt;div&gt;LTE, NR, ENDC等验证&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="703" width="150" height="40" as="geometry" />
+          <mxGeometry x="555" y="717" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="810" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="828" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
