@@ -79,7 +79,7 @@
           <mxGeometry x="370" y="346" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-3" value="RF Fine Tune" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="188.75" y="369" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-4" value="RF测试" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="188.75" y="553" width="120" height="60" as="geometry" />
