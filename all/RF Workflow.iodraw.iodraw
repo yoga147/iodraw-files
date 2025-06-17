@@ -33,7 +33,7 @@
           <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-13" value="NPI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="22.5" y="772" width="235" height="60" as="geometry" />
+          <mxGeometry x="22.5" y="772" width="137.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="90" width="20" height="57" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry x="347.5" y="195" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-28" value="RF:&lt;div style=&quot;font-size: 18px;&quot;&gt;性能测试及其他配置调试&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="380" y="466" width="230" height="60" as="geometry" />
+          <mxGeometry x="365" y="466" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="337.5" y="650" width="20" height="80" as="geometry" />
