@@ -69,7 +69,7 @@
         <mxCell id="Sf8G4b93oNL-A4fYySpw-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="812" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sf8G4b93oNL-A4fYySpw-32" value="RF+SW:&lt;div style=&quot;font-size: 18px;&quot;&gt;厂端配置和验证, 线损等数据优化&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
+        <mxCell id="Sf8G4b93oNL-A4fYySpw-32" value="SW:&lt;div style=&quot;font-size: 18px;&quot;&gt;厂端配置和验证, 线损等数据优化&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="827" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
