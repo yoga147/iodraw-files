@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-160" y="400" width="340" height="192" as="geometry" />
+          <mxGeometry x="-30" y="400" width="340" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-4" value="&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;Calibration&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;flipV=0;flipH=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="di-SmgyL6HkD1XmhZmiI-7" vertex="1">
           <mxGeometry width="112.5" height="56" as="geometry" />
@@ -92,9 +92,6 @@
         <mxCell id="di-SmgyL6HkD1XmhZmiI-4" value="RF测试" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="di-SmgyL6HkD1XmhZmiI-7">
           <mxGeometry x="220" y="132" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="di-SmgyL6HkD1XmhZmiI-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="di-SmgyL6HkD1XmhZmiI-7">
-          <mxGeometry x="160" y="36" width="20" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-448.75" y="390" as="sourcePoint" />
@@ -106,6 +103,9 @@
             <mxPoint x="-438.75" y="624.29" as="sourcePoint" />
             <mxPoint x="753.75" y="624.29" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="di-SmgyL6HkD1XmhZmiI-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="406" width="20" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
