@@ -90,7 +90,10 @@
           <mxGeometry x="370" y="346" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-3" value="RF Fine Tune" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="406" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="di-SmgyL6HkD1XmhZmiI-4" value="RF Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
