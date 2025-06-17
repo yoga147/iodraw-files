@@ -86,8 +86,8 @@
         <mxCell id="di-SmgyL6HkD1XmhZmiI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="310" width="20" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="di-SmgyL6HkD1XmhZmiI-2" value="SW:&lt;div&gt;基于需求完成RF相关配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="381" width="170" height="40" as="geometry" />
+        <mxCell id="di-SmgyL6HkD1XmhZmiI-2" value="SW:&lt;div&gt;基于需求完成RFC相关配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="409" y="381" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
