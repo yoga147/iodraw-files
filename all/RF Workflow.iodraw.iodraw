@@ -60,7 +60,7 @@
           <mxGeometry x="357.5" y="85" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-25" value="SW main + RF:&lt;div style=&quot;font-size: 18px;&quot;&gt;根据需求和 RF Design 完成RFC 配置和 online test&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="406.5" width="430" height="60" as="geometry" />
+          <mxGeometry x="370" y="466" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-26" value="HW:&lt;div style=&quot;font-size: 18px;&quot;&gt;Path Design, Diagram, SCH/PCB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="210" width="300" height="60" as="geometry" />
@@ -84,7 +84,10 @@
           <mxGeometry x="357.5" y="827" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="450" width="20" height="112" as="geometry" />
+          <mxGeometry x="327.5" y="310" width="20" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="di-SmgyL6HkD1XmhZmiI-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="328" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
