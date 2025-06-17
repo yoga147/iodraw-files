@@ -42,7 +42,7 @@
           <mxGeometry x="317.5" y="175" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="330" y="420" width="20" height="160" as="geometry" />
+          <mxGeometry x="337.5" y="415" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SW + RF:&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;与 PM 确认需求, 规格等参数&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="70" width="260" height="60" as="geometry" />
