@@ -89,7 +89,7 @@
         <mxCell id="di-SmgyL6HkD1XmhZmiI-2" value="SW:&lt;div&gt;基于需求完成RFC相关配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="346" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="di-SmgyL6HkD1XmhZmiI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="di-SmgyL6HkD1XmhZmiI-3" value="RF Fine Tune" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="406" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
