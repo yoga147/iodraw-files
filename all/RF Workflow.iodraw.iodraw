@@ -48,7 +48,7 @@
           <mxGeometry x="357.5" y="85" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-25" value="SW:&lt;div style=&quot;font-size: 18px;&quot;&gt;根据需求和 RF Design 完成RFC 配置和 online test&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="210" width="430" height="60" as="geometry" />
+          <mxGeometry x="-500" y="460" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf8G4b93oNL-A4fYySpw-26" value="HW:&lt;div style=&quot;font-size: 18px;&quot;&gt;Path Design, Diagram, SCH/PCB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="210" width="300" height="60" as="geometry" />
@@ -109,8 +109,8 @@
         </mxCell>
         <mxCell id="di-SmgyL6HkD1XmhZmiI-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-438.75" y="400" as="sourcePoint" />
-            <mxPoint x="753.75" y="400" as="targetPoint" />
+            <mxPoint x="-438.75" y="624.29" as="sourcePoint" />
+            <mxPoint x="753.75" y="624.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
