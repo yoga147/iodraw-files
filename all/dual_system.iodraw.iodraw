@@ -136,6 +136,11 @@
             <mxPoint x="-1441" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yZDLWjdaEawQ4VwzXIOD-54" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yZDLWjdaEawQ4VwzXIOD-26">
+          <mxGeometry x="-0.3236" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yZDLWjdaEawQ4VwzXIOD-27" value="FOTA_START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-385" y="-250" width="120" height="80" as="geometry" />
         </mxCell>
