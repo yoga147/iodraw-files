@@ -45,6 +45,9 @@
         <mxCell id="E2oECsN19gaJKd4Eou7N-10" value="Ping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="310" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E2oECsN19gaJKd4Eou7N-11" value="adb shell" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
