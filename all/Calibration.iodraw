@@ -25,6 +25,9 @@
         <mxCell id="E2oECsN19gaJKd4Eou7N-2" value="USB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="148" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E2oECsN19gaJKd4Eou7N-4" value="功分器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="128" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
