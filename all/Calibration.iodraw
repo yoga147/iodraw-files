@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6s4iiJbwlzVNA1SIPvH-1" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6s4iiJbwlzVNA1SIPvH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n6s4iiJbwlzVNA1SIPvH-2" target="n6s4iiJbwlzVNA1SIPvH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,8 +19,10 @@
         <mxCell id="n6s4iiJbwlzVNA1SIPvH-3" value="MT8870" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E2oECsN19gaJKd4Eou7N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n6s4iiJbwlzVNA1SIPvH-1" target="n6s4iiJbwlzVNA1SIPvH-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E2oECsN19gaJKd4Eou7N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n6s4iiJbwlzVNA1SIPvH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E2oECsN19gaJKd4Eou7N-2" value="USB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="148" width="50" height="30" as="geometry" />
